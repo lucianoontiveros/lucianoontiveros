@@ -9,7 +9,7 @@
 desarrollar utilidades para mi canal de Twitch</p>
 
 <h3 align="left">📋Un poquito más de mi:</h3>
-<p> Soy Argentino, con nacionalidad española, vivo en la provincia de Córdoba, una hermosa ciudad del interior del país. Hace unos cuantos meses decidí estudiar programación, luego de haber logrado la Tecnicatura superior universitaria en Gestión Financiera. Lo cual no tiene nada que ver con el mundo IT, pero por distintos contenidos que vi en youtube, decidi probar en mi ultimo año de carrera de que se trataba programar y me encantó. Finalmenete luego de pensarlo tomé una decisión, ya que tenia dudas sobre si debía incribirme en alguna universidad o gestionar el aprendizaje de manera autodidacta. Obté por una cuestión de tiempo por esta ultima. Trabajo para un empresa por las madrugadas que se didica a la logistica, donde desarrollo funciones a fin al rubro que poco tiene que ver con el desarrollo de nuevas habilidades para programar, esto sin bien puede tomarse como algo negativo, mi trabajo me permite ciertas horas para estudiar y practicar, que a lo mejor en un institución no me cundirían tanto porque mis jornadas laborales son desde la comodidad de mi casa</p>
+<p> Soy Argentino, con nacionalidad española, vivo en la provincia de Córdoba, una hermosa ciudad del interior del país. Hace unos cuantos meses decidí estudiar programación, luego de haber logrado la Tecnicatura superior universitaria en Gestión Financiera. Lo cual no tiene nada que ver con el mundo IT, pero por distintos contenidos que vi en youtube, decidi probar en mi ultimo año de carrera de que se trataba programar y me encantó. Finalmente luego de pensarlo tomé una decisión, ya que tenia dudas sobre si debía incribirme en alguna universidad o gestionar el aprendizaje de manera autodidacta. Obté por esta ultima porque sentí que acá estaba lo que buscaba. Trabajo para un empresa por las madrugadas que se didica a la logistica, donde desarrollo funciones adines al rubro relacionando con la atención al cliente, la administración y resolución de gestiones, que poco tiene que ver con el desarrollo de nuevas habilidades para programar, esto sin bien puede tomarse como algo negativo, mi trabajo me permite ciertas horas para estudiar y practicar, que a lo mejor en una intitución me implicaría una carga horario mayor</p>
 
 <h3 align="left">💻 Cuarto De Chenz:</h3>
 <p> Al tiempo de empezar a estudiar programacion por mi cuenta, decide reactivar mi canal de Twitch y decicarme a los 'Estudy With Me' ya que creo que 
@@ -29,7 +29,7 @@ que aprendido en todo estos meses.</p>
 
 <p>🏆 Nivel de desarrollo: Junior</p>
 <p>🏆 Creadores de contenido Favoritos: Junior
-  <ul>
+<ul>
   <li> <a href="https://www.udemy.com/course/curso-bootstrap-5/" target="_blank" rel="noreferrer"> web responsives (mobile first) c/ HTML, CSS, Flexbox, Sass, Bootstrap 5, Git y Github Page </li>
   <li> <a href="https://www.udemy.com/course/aprende-javascript-es9-html-css3-y-nodejs-desde-cero/" target="_blank" rel="noreferrer"> Javascript ES9, HTML, CSS3 y NodeJS desde cero</li>
 </ul>
