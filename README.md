@@ -27,11 +27,19 @@ que aprendido en todo estos meses.</p>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc8pycj-18ccaujwdk37tajg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc8pycj-18ccaujwdk37tajg" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/UdU3wvpWu7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/UdU3wvpWu7" height="30" width="40" /></a>
 
-<p>📓Cursos:
+<p>🏆 Nivel de desarrollo: Junior</p>
+<p>🏆 Creadores de contenido Favoritos: Junior
+  <ul>
+  <li> <a href="https://www.udemy.com/course/curso-bootstrap-5/" target="_blank" rel="noreferrer"> web responsives (mobile first) c/ HTML, CSS, Flexbox, Sass, Bootstrap 5, Git y Github Page </li>
+  <li> <a href="https://www.udemy.com/course/aprende-javascript-es9-html-css3-y-nodejs-desde-cero/" target="_blank" rel="noreferrer"> Javascript ES9, HTML, CSS3 y NodeJS desde cero</li>
+</ul>
+</p>
+
+<p>📓Cursos:</p>
 <ul>
   <li> <a href="https://www.udemy.com/course/curso-bootstrap-5/" target="_blank" rel="noreferrer"> web responsives (mobile first) c/ HTML, CSS, Flexbox, Sass, Bootstrap 5, Git y Github Page </li>
   <li> <a href="https://www.udemy.com/course/aprende-javascript-es9-html-css3-y-nodejs-desde-cero/" target="_blank" rel="noreferrer"> Javascript ES9, HTML, CSS3 y NodeJS desde cero</li>
-</ul></p>
+</ul>
 
 
 
