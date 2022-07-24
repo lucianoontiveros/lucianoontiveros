@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hola 👋, 👨‍💻Me llamo Luciano</h1>
+<h1 align="center">Hola 👋, 👨‍💻 soy Chenz </h1>
 <h3 align="center">Soy un estudiante de programación autodidacta.</h3>
 
 <p align="left"> Actualmente me encuentro haciendo practicas de cursos que realicé para asentar conocimientos, mientras a su vez, busco
