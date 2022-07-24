@@ -5,6 +5,9 @@
 <h1 align="center">Hola 👋, 👨‍💻Me llamo Luciano</h1>
 <h3 align="center">Soy un estudiante de programación autodidacta.</h3>
 
+<p align="left"> Actualmente me encuentro haciendo practicas de cursos que realicé para asentar conocimientos, mientras a su vez, busco
+desarrollar utilidades para mi canal de Twitch</p>
+
 
 
 <h3 align="left">Lenguajes y herramientas:</h3>
@@ -16,21 +19,16 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/luciano-alfonso-ontiveros-3abba219a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luciano-alfonso-ontiveros-3abba219a/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc8pycj-18ccaujwdk37tajg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc8pycj-18ccaujwdk37tajg" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/UdU3wvpWu7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/UdU3wvpWu7" height="30" width="40" /></a>
-</p>
 
-📓Cursos: 
-- [web responsives (mobile first) c/ HTML, CSS, Flexbox, Sass, Bootstrap 5, Git y Github Page](https://www.udemy.com/course/curso-bootstrap-5/)
-- [Javascript ES9, HTML, CSS3 y NodeJS desde cero](https://www.udemy.com/course/aprende-javascript-es9-html-css3-y-nodejs-desde-cero/)
+📓Cursos:</p>
+<ul>
+  <li> <a href="https://www.udemy.com/course/curso-bootstrap-5/" target="_blank" rel="noreferrer"> web responsives (mobile first) c/ HTML, CSS, Flexbox, Sass, Bootstrap 5, Git y Github Page </li>
+  <li> <a href="https://www.udemy.com/course/aprende-javascript-es9-html-css3-y-nodejs-desde-cero/" target="_blank" rel="noreferrer"> Javascript ES9, HTML, CSS3 y NodeJS desde cero</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianoontiveros)](https://github.com/lucianoontiveros/github-readme-stats)
