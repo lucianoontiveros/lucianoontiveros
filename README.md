@@ -22,8 +22,9 @@ desarrollar utilidades para mi canal de Twitch</p>
 <a href="https://twitter.com/agustnontivero6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agustnontivero6" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/luciano-alfonso-ontiveros-3abba219a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luciano-alfonso-ontiveros-3abba219a" height="30" width="40" /></a>
 <a href="https://instagram.com/luciano.a.ontiveros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luciano.a.ontiveros" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uc8pycj-18ccaujwdk37tajg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc8pycj-18ccaujwdk37tajg" height="30" width="40" /></a>
-<a href="https://discord.gg/UdU3wvpWu7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://dis
+<a href="https://www.youtube.com/uc8pycj-18ccaujwdk37tajg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc8pycj-18ccaujwdk37tajg" height="30" width="40" /></a>
+<a href="https://discord.gg/UdU3wvpWu7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/UdU3wvpWu7" height="30" width="40" /></a>
+</p>
 
 
 <h3 align="left">💎Perfil</h3>
