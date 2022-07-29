@@ -36,7 +36,7 @@ desarrollar utilidades para mi canal de Twitch</p>
   <li>👔 Creadores de contenido Favoritos: </li>
       <ul>
           <li>📌<a href="https://bluuweb.github.io/desarrollo-web-bluuweb/">bluuweb </a></li>
-          <li>📌<a href="https://www.udemy.com/course/aprende-javascript-es9-html-css3-y-nodejs-desde-cero/" target="_blank" rel="noreferrer">Javascript ES9, HTML, CSS3 y NodeJS desde cero </a></li>
+          <li>📌<a href="https://www.udemy.com/course/aprende-javascript-es9-html-css3-y-nodejs-desde-cero/" target="_blank" rel="noreferrer">Nicolas Schurmann</a></li>
           <li>📌<a href="https://www.youtube.com/c/soydalto">Dalto</a></li>
           <li>📌<a href='https://lenguajejs.com/'>ManzDev</a></li>
       </ul>
