@@ -51,7 +51,6 @@ desarrollar utilidades para mi canal de Twitch</p>
       <li>✅<a href="https://learndigital.withgoogle.com/activate/course/digital-marketing" target="_blank" rel="noreferrer">Fundamentos de Marketing Digital</a></li>
       <li>✅<a href="https://learndigital.withgoogle.com/activate/course/personal-productivity" target="_blank" rel="noreferrer">Productividad Personal</a></li>
       <li>✅<a href='https://learndigital.withgoogle.com/activate/course/digital-skills' target="_blank" rel="noreferrer">Competencias digitales para profesionales</a></li>
-      <li>✅<a href='https://www.udemy.com/course/aprende-el-lenguaje-de-programacion-python3-practicando/learn/lecture/29252408?start=15#overview' target="_blank" rel="noreferrer">Master en Python 3.x.</a></li>
   </ul>
 </ul>
 
