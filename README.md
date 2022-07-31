@@ -44,7 +44,6 @@ desarrollar utilidades para mi canal de Twitch</p>
   <ul>
       <li>✅<a href="https://www.udemy.com/course/curso-bootstrap-5/" target="_blank" rel="noreferrer"> web responsives (mobile first) c/ HTML, CSS, Flexbox, Sass, Bootstrap 5, Git y Github Page </a></li>
       <li>✅<a href="https://www.udemy.com/course/aprende-javascript-es9-html-css3-y-nodejs-desde-cero/" target="_blank" rel="noreferrer"> Javascript ES9, HTML, CSS3 y NodeJS desde cero </a></li>
-      <li>✅<a href="https://www.udemy.com/course/aprende-javascript-es9-html-css3-y-nodejs-desde-cero/" target="_blank" rel="noreferrer"> Javascript ES9, HTML, CSS3 y NodeJS desde cero </a></li>
       <li>✅<a href="https://www.youtube.com/watch?v=kN1XP-Bef7w" target="_blank" rel="noreferrer">Curso de HTML5 desde CERO</a></li>
       <li>✅<a href="https://www.youtube.com/watch?v=OWKXEJN67FE">Curso de CSS desde CERO </a></li>
       <li>✅<a href="https://www.youtube.com/watch?v=z95mZVUcJ-E&t=15908s">Curso de JAVASCRIPT desde CERO</a></li>
