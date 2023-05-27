@@ -9,7 +9,19 @@
 desarrollar utilidades para mi canal de Twitch</p>
 
 <h3 align="left">📋Un poquito más de mi:</h3>
-<p>Soy Argentino, con nacionalidad española, vivo en la provincia de Córdoba, una hermosa ciudad del interior del país. Hace unos cuantos meses decidí estudiar programación, luego de haber logrado la Tecnicatura superior universitaria en Gestión Financiera. Lo cual no tiene nada que ver con el mundo IT, pero por distintos contenidos que vi en youtube, decidí probar en mi último año de carrera de que se trataba programar y me encantó. Finalmente, luego de pensarlo un tiempo tomé una decisión, ya que tenía dudas sobre si debía inscribirme en alguna universidad o gestionar el aprendizaje de manera autodidacta. Opté por esta última porque sentí que acá estaba lo que buscaba. Trabajo para un empresa por las madrugadas que se dedica a la logística, donde desarrollo funciones afines al rubro relacionando con la atención al cliente, la administración y resolución de gestiones, que poco tiene que ver con el desarrollo de nuevas habilidades para programar, esto sin bien puede tomarse como algo negativo, mi trabajo me permite ciertas horas para estudiar y practicar, que a lo mejor en una institución me implicaría una carga horario mayor</p>
+<p>Soy un profesional con experiencia en el campo administrativo y una sólida formación en ciencias económicas. Comencé mis estudios en la Universidad de Córdoba, enfocándome en esta área, pero debido a motivos económicos, tuve que interrumpir mi carrera en el tercer año.
+
+Sin embargo, no permití que esto me detuviera y decidí obtener una certificación como Técnico Universitario en Gestión Financiera. Esta experiencia me proporcionó habilidades y conocimientos prácticos en el ámbito financiero, lo cual complementa mi formación académica inicial.
+
+En los últimos dos años, he estado dedicando tiempo y esfuerzo al estudio autodidacta de la programación, con un enfoque especial en las nuevas tecnologías y el software testing. He adquirido conocimientos sólidos en lenguajes de programación, metodologías de desarrollo y herramientas de testing.
+
+Mi interés por la programación y el software testing se ha fortalecido a medida que he explorado y desarrollado proyectos personales. Me apasiona la resolución de problemas y el aseguramiento de la calidad en el desarrollo de software. Tengo una mentalidad analítica y metódica, lo cual me permite abordar desafíos técnicos con un enfoque riguroso.
+
+Soy una persona autodidacta, comprometida y proactiva, siempre buscando aprender y mejorar mis habilidades. Además, tengo la capacidad de trabajar de manera independiente y en equipo, lo cual me ha permitido colaborar en proyectos multidisciplinarios.
+
+Estoy emocionado por encontrar oportunidades que me permitan combinar mis habilidades en administración, conocimientos en programación y pasión por el software testing. Estoy dispuesto a asumir nuevos retos y adaptarme a entornos en constante cambio.
+
+Mi objetivo es aplicar mis habilidades y conocimientos para contribuir al desarrollo de soluciones innovadoras y de alta calidad en el campo de la tecnología.</p>
 
 <h3 align="left">💻 Cuarto De Chenz:</h3>
 <p> Al tiempo de empezar a estudiar programación por mi cuenta, decide reactivar mi canal de Twitch y dedicarme a los 'Study With Me' ya que suponía que el formato me permitiría enfocarme y a su vez contactar con gente del ambiente de la tecnología, con perfiles de personas dedicadas  a cumplir con sus objetivos y que trae en consecuencia, haciendo comunidad, compartir nuestros progresos. Afortunadamente de aquella decisión las cosas marcharon muy bien, y hoy tenemos un canal con varias utilidades que las implementamos gracias a las tecnologías que fuí adquiriendo durante estos meses. </p>
