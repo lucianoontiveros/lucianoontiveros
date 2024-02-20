@@ -9,7 +9,7 @@
 desarrollar utilidades para mi canal de Twitch</p>
 
 <h3 align="left">📋Un poquito más de mi:</h3>
-<p>Soy un profesional con experiencia en el campo administrativo y una sólida formación en ciencias económicas. Comencé mis estudios en la Universidad de Córdoba, enfocándome en esta área, pero debido a motivos económicos, tuve que interrumpir mi carrera en el tercer año.
+<p>Soy un profesional con experiencia en el campo administrativo y formación en ciencias económicas. Comencé mis estudios en la Universidad de Córdoba, enfocándome en esta área, pero debido a motivos económicos, tuve que interrumpir mi carrera en el tercer año.
 
 Sin embargo, no permití que esto me detuviera y decidí obtener una certificación como Técnico Universitario en Gestión Financiera. Esta experiencia me proporcionó habilidades y conocimientos prácticos en el ámbito financiero, lo cual complementa mi formación académica inicial.
 
